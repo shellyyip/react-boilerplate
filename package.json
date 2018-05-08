@@ -1,7 +1,6 @@
 {
-  "name": "nava-frontend-takehome",
+  "name": "my-new-react-project",
   "version": "1.0.0",
-  "description": "Nava frontend take-home exercise",
   "main": "index.jsx",
   "author": "Shelly Yip <shelly@shellyyip.com>",
   "license": "None",
